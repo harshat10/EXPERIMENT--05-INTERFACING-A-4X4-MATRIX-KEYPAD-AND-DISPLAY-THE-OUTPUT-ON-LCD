@@ -1,6 +1,6 @@
 # EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD
-# NAME : RAMPRASATH S
-# REGISTER NUMBER : 2122240404266
+# NAME : HARSHAT G
+# REGISTER NUMBER : 212224040106
 ## Aim: 
 To Interface a 4X4 matrix keypad and show the output on 16X2 LCD display to ARM controller , and simulate it in Proteus
 ## Components required: 
